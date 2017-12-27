@@ -4,7 +4,7 @@ As a teaching assistant for the class [CN540 - Neural and Computational Models o
 
 The project challenges the student to understand how the brain learns to perform visually-guided reaches by integrating both motor and visual sensory feedback. In order to complete the assignment, the student must show understanding of the model by adding additional features to the model and by critiquing the added features.
 
-This repository provides the [assignment](CN540 Final Project.pdf) and [related code](src/cn540_striatum_model.m).
+This repository provides the [assignment](/CN540 Final Project.pdf) and [related code](src/cn540_striatum_model.m).
 
 ## References
 Bullock, D., Grossberg, S., & Guenther, F. H. (1993). [A self-organizing neural model of motor equivalent reaching and tool use by a multijoint arm.](http://www.cns.bu.edu/Profiles/Grossberg/BulGroGue1993JOCN.pdf) Journal of Cognitive Neuroscience, 5(4), 408-435.
